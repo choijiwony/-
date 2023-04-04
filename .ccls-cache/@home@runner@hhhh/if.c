@@ -13,7 +13,7 @@ main() {
   if (5-5)  printf ("E\n");//if (참)
  printf("G\n");
 
-  if(a<3) printf ("H\n"); //if(거짓)
+  // if(a<3) printf ("H\n"); //if(거짓)
   printf("I\n");
 
 
