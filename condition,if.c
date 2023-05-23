@@ -14,9 +14,4 @@
 //  printf("G\n");
 
 //   // if(a<3) printf ("H\n"); //if(거짓)
-//   printf("I\n");
-
-
-
-  
-}
+//   printf("I\n");}
